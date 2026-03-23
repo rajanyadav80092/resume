@@ -45,3 +45,16 @@ ul {
 li {
     margin: 5px 0;
 }
+
+.whatsapp{
+
+position:fixed;
+bottom:.4rem;
+right:20px;
+background:#25D366;
+color:white;
+padding:15px;
+border-radius:50px;
+text-decoration:none;
+
+}
