@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+.container {
+    display: flex;
+}
+
+.left {
+    width: 30%;
+    background: #1e1e2f;
+    color: white;
+    padding: 20px;
+}
+
+.right {
+    width: 70%;
+    padding: 30px;
+}
+
+.leet a{
+    text-decoration: none;
+    color:white;
+}
+
+.git a{
+    text-decoration: none;
+    color:white;
+}
+.photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+h1 {
+    border-bottom: 2px solid gray;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+}
